@@ -1,0 +1,55 @@
+Teste para Programador PHP Pleno
+
+Instruções:
+
+     • Complete as tarefas abaixo utilizando PHP.
+     • Se precisar fazer suposições, comente-as claramente.
+     • Não hesite em buscar referências online, mas cite-as se   usar trechos
+        significativos de código.
+     • Uso de bibliotecas são permitidas
+
+
+
+Tarefa 1: Manipulação de Strings
+
+Crie uma função chamada `inverterString` que recebe uma string como
+parâmetro e retorna a mesma string invertida. Por exemplo, se a entrada for
+"hello", a saída deve ser "olleh".
+
+Tarefa 2: Manipulação de Arrays
+
+Dada a array `$numeros = [1, 2, 3, 4, 5]`, crie uma função chamada
+`dobrarNumeros` que retorna uma nova array com cada elemento da array
+original dobrado. Por exemplo, se a entrada for `[1, 2, 3]`, a saída deve ser
+`[2, 4, 6]`.
+
+Tarefa 3: Programação Orientada a Objetos (POO)
+
+Crie uma classe chamada `Pessoa` com os seguintes atributos: `$nome` e
+`$idade`. A classe deve ter um método chamado `apresentar` que exibe
+uma mensagem com o nome e a idade da pessoa.
+
+Tarefa 4: Manipulação de Arquivos
+
+Crie uma função chamada `contarLinhasArquivo` que recebe o caminho
+de um arquivo como parâmetro e retorna o número total de linhas no arquivo.
+
+Tarefa 5: Conexão com Banco de Dados
+
+Suponha que você tenha um banco de dados MySQL com uma tabela
+chamada `usuarios` que possui os campos `id`, `nome` e `email`. Crie uma
+função chamada `buscarUsuarios` que se conecta ao banco de dados,
+recupera todos os usuários e retorna uma array associativa com os dados.
+
+Avaliação Extra: Boas Práticas
+
+Analise o código fornecido nas tarefas acima e comente sobre possíveis
+melhorias em termos de boas práticas de programação, legibilidade e
+eficiência.
+
+Observações:
+• Você  pode fornecer suas respostas em um único arquivo ou
+    separadamente, mas mantenha a estrutura organizada.
+• O teste não tem limite de tempo, mas a eficiência e a clareza do código
+    são valorizadas.
+
